@@ -1,0 +1,582 @@
+[
+    {
+        "provinceCode": 1,
+        "townshipCode": 39761,
+        "townshipName": "آبسرد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39741,
+        "townshipName": "آبعلي"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33781,
+        "townshipName": "ابباريک"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18351,
+        "townshipName": "ابراهيم اباد-تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37656,
+        "townshipName": "احمدآبادجانسپار"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33131,
+        "townshipName": "احمدابادمستوفي"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39851,
+        "townshipName": "ارجمند"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18641,
+        "townshipName": "اسلام اباد-تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 331,
+        "townshipName": "اسلام شهر"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37661,
+        "townshipName": "اسماعيل آباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39861,
+        "townshipName": "اميريه-تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 31686,
+        "townshipName": "انديشه"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33771,
+        "townshipName": "ايجدان"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33761,
+        "townshipName": "باغخواص"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33541,
+        "townshipName": "باغستان"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18131,
+        "townshipName": "باقر شهر"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37654,
+        "townshipName": "بهارستان"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 16551,
+        "townshipName": "بومهن"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 19338,
+        "townshipName": "تجريش"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 1,
+        "townshipName": "تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39720,
+        "townshipName": "جابان"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 16531,
+        "townshipName": "جاجرود(خسروآباد)"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18141,
+        "townshipName": "جعفرابادباقراف"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33861,
+        "townshipName": "جليل اباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33831,
+        "townshipName": "جواد آباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18331,
+        "townshipName": "حسن آباد-تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33981,
+        "townshipName": "حصارامير"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39841,
+        "townshipName": "حصاربن"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37652,
+        "townshipName": "حصارک بالا"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37650,
+        "townshipName": "حصارک پايين"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33991,
+        "townshipName": "خاتون اباد-تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18631,
+        "townshipName": "خاورشهر"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33841,
+        "townshipName": "خاوه"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18986,
+        "townshipName": "خلازير"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33931,
+        "townshipName": "داوداباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39831,
+        "townshipName": "درده"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 3971,
+        "townshipName": "دماوند"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33751,
+        "townshipName": "دهماسين"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 3761,
+        "townshipName": "رباطکريم"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39731,
+        "townshipName": "رودهن"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 1813,
+        "townshipName": "ري"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37653,
+        "townshipName": "سبزدشت"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39771,
+        "townshipName": "سربندان"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33361,
+        "townshipName": "سعيدآباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37631,
+        "townshipName": "سلطان اباد-تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33186,
+        "townshipName": "شاطره"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33561,
+        "townshipName": "شاهدشهر"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33941,
+        "townshipName": "شريف آباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18341,
+        "townshipName": "شمس اباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37614,
+        "townshipName": "شهر صنعتي پرند"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 16571,
+        "townshipName": "شهرصنعتي خرمدشت"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 3351,
+        "townshipName": "شهريار"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 31133,
+        "townshipName": "شهرک صنعتي نصيرشهر"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33930,
+        "townshipName": "شهرک عباس آباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 31136,
+        "townshipName": "شهرک قلعه مير"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33171,
+        "townshipName": "صالح آباد-تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33560,
+        "townshipName": "صباشهر"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 31641,
+        "townshipName": "صفادشت"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18171,
+        "townshipName": "طورقوزاباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33741,
+        "townshipName": "عسگرابادعباسي"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33571,
+        "townshipName": "فردوسيه"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18381,
+        "townshipName": "فرودگاه امام خميني"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18471,
+        "townshipName": "فرون اباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33451,
+        "townshipName": "فشم"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33141,
+        "townshipName": "فيروزبهرام"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 3981,
+        "townshipName": "فيروزکوه"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18181,
+        "townshipName": "قاسم ابادشوراباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 3751,
+        "townshipName": "قدس"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18686,
+        "townshipName": "قرچک"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33881,
+        "townshipName": "قلعه خواجه-تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33711,
+        "townshipName": "قلعه سين"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18371,
+        "townshipName": "قلعه محمدعلي خان"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18441,
+        "townshipName": "قلعه نوخالصه"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18191,
+        "townshipName": "قمصر-تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18791,
+        "townshipName": "قو"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18661,
+        "townshipName": "قيامدشت"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33591,
+        "townshipName": "لم اباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 3341,
+        "townshipName": "لواسان"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33461,
+        "townshipName": "لواسان بزرگ"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18651,
+        "townshipName": "لپه زنگ"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18461,
+        "townshipName": "محمودابادپيرزاده"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39791,
+        "townshipName": "مرا"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18151,
+        "townshipName": "مرقدامام ره"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39781,
+        "townshipName": "مشا"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 31691,
+        "townshipName": "ملارد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 1011,
+        "townshipName": "منطقه 11 پستي تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 1013,
+        "townshipName": "منطقه 13 پستي تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 1014,
+        "townshipName": "منطقه 14 پستي تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 1015,
+        "townshipName": "منطقه 15 پستي تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 1016,
+        "townshipName": "منطقه 16 پستي تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 1017,
+        "townshipName": "منطقه 17 پستي تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 1018,
+        "townshipName": "منطقه 18 پستي تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 1019,
+        "townshipName": "منطقه 19 پستي تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39780,
+        "townshipName": "مهرآباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37651,
+        "townshipName": "نسيم شهر"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37551,
+        "townshipName": "نصيرآباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 31130,
+        "townshipName": "نصيرشهر"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39811,
+        "townshipName": "هرانده"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33581,
+        "townshipName": "وحيديه"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 3371,
+        "townshipName": "ورامين"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18391,
+        "townshipName": "وهن اباد"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33971,
+        "townshipName": "پارچين"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 3391,
+        "townshipName": "پاکدشت"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 16581,
+        "townshipName": "پرديس"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37611,
+        "townshipName": "پرند"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 3381,
+        "townshipName": "پيشوا"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18361,
+        "townshipName": "چرمشهر"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33191,
+        "townshipName": "چهاردانگه"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33871,
+        "townshipName": "کريم اباد-تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37581,
+        "townshipName": "کلمه-تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18161,
+        "townshipName": "کهريزک"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 39751,
+        "townshipName": "کيلان"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 31694,
+        "townshipName": "گرمدره-تهران"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 18451,
+        "townshipName": "گل تپه کبير"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 33151,
+        "townshipName": "گلدسته"
+    },
+    {
+        "provinceCode": 1,
+        "townshipCode": 37571,
+        "townshipName": "گلستان (تهران)"
+    }
+]
