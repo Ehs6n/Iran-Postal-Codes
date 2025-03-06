@@ -2,7 +2,7 @@ import json
 import glob
 
 rows = []
-for file in sorted(glob.glob("Alborz.json")):
+for file in sorted(glob.glob("Province*.json")):
     with open(file, "r") as f:
         data = json.load(f)
         for entry in data:
