@@ -1,8 +1,0 @@
-rules:
-  - pattern: "province*.json"
-    template: |
-      | Province Code | City Name | Zip Code |
-      | --- | --- | --- |
-      {% for entry in data %}
-      | {{ entry.provinceCode }} | {{ entry.townshipName }} | {{ entry.townshipCode }} |
-      {% endfor %}
