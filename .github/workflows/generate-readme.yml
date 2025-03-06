@@ -13,8 +13,6 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: 3.12
-      - name: Install dependencies
-        run: pip install -r requirements.txt  # If your script needs packages
       - name: Run script to generate README
         run: python generate_readme.py
       - name: Commit updated README
